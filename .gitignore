@@ -4,6 +4,13 @@ dist/
 # generated types
 .astro/
 .vercel/
+.history/
+.npmrc
+.nvmrc
+
+.vs/
+.idea/
+
 
 # dependencies
 node_modules/
