@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind'
 import { remarkReadingTime } from './src/utils/readTime.ts'
 
 export default defineConfig({
-	site: 'https://dotnetevangelist.com',
+	site: 'https://dotnetevangelist.com/jobs',
 	trailingSlash: 'never',
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
